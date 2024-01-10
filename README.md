@@ -1,2 +1,2 @@
-# Um contador feito em Python :snake:
+# Um contador feito em Python
 *fiz um contador para me auxiliar no meu serviço*
